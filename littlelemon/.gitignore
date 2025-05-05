@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py,cover
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+*.sqlite3
+*.log
+media/
+staticfiles/
+
+# Pipenv
+Pipfile.lock
+.python-version
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
